@@ -1,9 +1,9 @@
-title: 8Bits Code
+title: 8Bits/Code
 description: "Tutorias de programação Java e Python"
 author:
-  name: "8Bits Code"
+  name: "8Bits/Code"
   email: "oitobits.code@gmail.com"
-  url: ""
+  url: "https://8bits-code.github.io/"
 
 baseurl: /
 
@@ -28,5 +28,5 @@ plugins:
   - jekyll-sitemap
 
 # Custom variables
-owner : "8Bits Code"
+owner : "8Bits/Code"
 year : "2021"
